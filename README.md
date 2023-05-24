@@ -6,12 +6,7 @@
 <h2> Hola, soy Santi! </h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre Mi </h3>
-La motivación es mi motor para lograr todo lo que me proponga.
-Actualmente estoy mejorando proyectos antiguos del bootcamp y realizando proyectos nuevos para aplicar y seguir aprendiendo conocimientos nuevos.
-Me considero una persona resolutiva y determinada, 
-eficiente al momento de gestionar las tareas y administrar los tiempos.
-Me destaco por ser organizado y puntual, aprendo de forma ágil y autónoma 
-y me adapto fácilmente a los cambios que se presentan.
+Motivation is my engine to achieve everything I set my mind to. I am currently improving old bootcamp projects and doing new projects to apply and continue learning new knowledge. I consider myself a decisive and determined person, efficient when managing tasks and managing time. I stand out for being organized and punctual, I learn quickly and autonomously and I easily adapt to changes that arise.
 
 
 <h3> 🛠 &nbsp;Tech Skills</h3>
@@ -37,7 +32,9 @@ y me adapto fácilmente a los cambios que se presentan.
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago-Acuna&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Acuna&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🤝🏻 &nbsp;Interesados en conocerme? Contáctenme! </h3>
 
