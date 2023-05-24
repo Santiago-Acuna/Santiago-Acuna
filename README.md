@@ -37,6 +37,8 @@ y me adapto fácilmente a los cambios que se presentan.
 
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3> 🤝🏻 &nbsp;Interesados en conocerme? Contáctenme! </h3>
 
 <p align="center">
@@ -46,4 +48,3 @@ y me adapto fácilmente a los cambios que se presentan.
 <a href="santiagoacu1990@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-santiagoacu1990@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ [Santi](https://github.com/Santiago-Acuna)
