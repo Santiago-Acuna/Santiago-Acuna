@@ -1,9 +1,8 @@
-<h1 align="center"><b>Hola, soy Santiago Acuña</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, i'm Santiago Acuña</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer...&hearts;++;Autodidacta+y+aprendiz/investigador+activo+++;Amo+aprender+nuevas+cosas...<3++++"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer...&hearts;++;Self-taught+and+apprentice/active+researcher+++;I+love+learning+new+things...<3++++"></a>
 </p>
-<h2> Hola, soy Santi! </h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre Mi </h3>
 Motivation is my engine to achieve everything I set my mind to. I am currently improving old bootcamp projects and doing new projects to apply and continue learning new knowledge. I consider myself a decisive and determined person, efficient when managing tasks and managing time. I stand out for being organized and punctual, I learn quickly and autonomously and I easily adapt to changes that arise.
