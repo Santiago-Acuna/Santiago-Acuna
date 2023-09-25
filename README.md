@@ -35,7 +35,7 @@ Motivation is my engine to achieve everything I set my mind to. I am currently i
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago-Acuna&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Acuna&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3> 🤝🏻 &nbsp;Interesados en conocerme? Contáctenme! </h3>
+<h3> 🤝🏻 &nbsp;Interested in meeting me? Contact me!! </h3>
 
 <p align="center">
 
