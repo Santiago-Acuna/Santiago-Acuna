@@ -24,6 +24,12 @@ Motivation is my engine to achieve everything I set my mind to. I am currently i
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Typescript](https://img.shields.io/badge/Typescript-grey?logo=Typescript)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-grey?logo=MongoDB)
+  ![Mongoose](https://img.shields.io/badge/Mongoose-grey?logo=Mongoose&logoColor=red)
+
+  
+
 
 <br>
 
