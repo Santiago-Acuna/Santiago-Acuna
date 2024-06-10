@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer...&hearts;++;apprentice/active+researcher++;I+love+learning+new+things...<3++++"></a>
 </p>
 
-<h3> 👨🏻‍💻 &nbsp;Sobre Mi </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 Motivation is my engine to achieve everything I set my mind to. I am currently improving old bootcamp projects and doing new projects to apply and continue learning new knowledge. I consider myself a decisive and determined person, efficient when managing tasks and managing time. I stand out for being organized and punctual, I learn quickly and autonomously and I easily adapt to changes that arise.
 
 
